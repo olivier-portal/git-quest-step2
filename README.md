@@ -1,3 +1,5 @@
+<img src="git2.png" alt="Captain Git Beard" width="300"/>
+
 # 🏴‍☠️ Git Quest — Épisode 2 : La mutinerie des moussaillons
 
 > "La mutinerie a dispersé mes secrets…
